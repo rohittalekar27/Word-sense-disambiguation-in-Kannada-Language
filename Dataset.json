@@ -1,0 +1,2030 @@
+[
+  {
+    "word": "ವರ್ಷ",
+    "translation": "Varsha",
+    "disambiguation": "Year or rain",
+    "senses": 2
+  },
+  {
+    "word": "ನದಿ",
+    "translation": "Nadi",
+    "disambiguation": "River or vein",
+    "senses": 2
+  },
+  {
+    "word": "ಮಾಡು",
+    "translation": "Madu",
+    "disambiguation": "Do or buffalo",
+    "senses": 2
+  },
+  {
+    "word": "ತಂದೆ",
+    "translation": "Tande",
+    "disambiguation": "Father or bring",
+    "senses": 2
+  },
+  {
+    "word": "ಪಕ್ಷಿ",
+    "translation": "Pakshi",
+    "disambiguation": "Bird or side",
+    "senses": 2
+  },
+  {
+    "word": "ವಿದ್ಯಾರ್ಥಿ",
+    "translation": "Vidyarthi",
+    "disambiguation": "Student or learner",
+    "senses": 2
+  },
+  {
+    "word": "ಕೋಪ",
+    "translation": "Kopa",
+    "disambiguation": "Anger or breastplate",
+    "senses": 2
+  },
+  {
+    "word": "ಜಗತ್ತು",
+    "translation": "Jagattu",
+    "disambiguation": "World or universe",
+    "senses": 2
+  },
+  {
+    "word": "ನಗು",
+    "translation": "Nagu",
+    "disambiguation": "Smile or tooth",
+    "senses": 2
+  },
+  {
+    "word": "ಕಮಲ",
+    "translation": "Kamala",
+    "disambiguation": "Lotus or Kamala (name)",
+    "senses": 2
+  },
+  {
+    "word": "ಹೊಟ್ಟೆ",
+    "translation": "Hotte",
+    "disambiguation": "Stomach or desire",
+    "senses": 2
+  },
+  {
+    "word": "ಗ್ರಂಥ",
+    "translation": "Grantha",
+    "disambiguation": "Book or script",
+    "senses": 2
+  },
+  {
+    "word": "ಮಾತು",
+    "translation": "Matu",
+    "disambiguation": "Word or speech",
+    "senses": 2
+  },
+  {
+    "word": "ತಿಳಿ",
+    "translation": "Tili",
+    "disambiguation": "Know or roof",
+    "senses": 2
+  },
+  {
+    "word": "ಕೈ",
+    "translation": "Kai",
+    "disambiguation": "Hand or measure",
+    "senses": 2
+  },
+  {
+    "word": "ಬಾಲ",
+    "translation": "Baala",
+    "disambiguation": "Child or hair",
+    "senses": 2
+  },
+  {
+    "word": "ಮಾರು",
+    "translation": "Maru",
+    "disambiguation": "Beat or change",
+    "senses": 2
+  },
+  {
+    "word": "ಹೆಜ್ಜೆ",
+    "translation": "Hejje",
+    "disambiguation": "Step or foot",
+    "senses": 2
+  },
+  {
+    "word": "ಕೊಟ್ಟು",
+    "translation": "Kottu",
+    "disambiguation": "Give or frog",
+    "senses": 2
+  },
+  {
+    "word": "ಕುರಿ",
+    "translation": "Kuri",
+    "disambiguation": "Sheep or mistake",
+    "senses": 2
+  },
+  {
+    "word": "ತಲೆ",
+    "translation": "Tale",
+    "disambiguation": "Head or beginning",
+    "senses": 2
+  },
+  {
+    "word": "ಮನೆ",
+    "translation": "Mane",
+    "disambiguation": "House or mind",
+    "senses": 2
+  },
+  {
+    "word": "ಅಕ್ಕ",
+    "translation": "Akka",
+    "disambiguation": "Elder sister or rock",
+    "senses": 2
+  },
+  {
+    "word": "ಕುಂತೆ",
+    "translation": "Kunte",
+    "disambiguation": "Well or donkey",
+    "senses": 2
+  },
+  {
+    "word": "ಬೀರು",
+    "translation": "Beeru",
+    "disambiguation": "Carry or beer",
+    "senses": 2
+  },
+  {
+    "word": "ಬಿದಿರು",
+    "translation": "Bidiru",
+    "disambiguation": "Wall or mouse",
+    "senses": 2
+  },
+  {
+    "word": "ತೆರೆ",
+    "translation": "Tere",
+    "disambiguation": "Curtain or open",
+    "senses": 2
+  },
+  {
+    "word": "ಹೆಣ್ಣು",
+    "translation": "Hennu",
+    "disambiguation": "Female or turn",
+    "senses": 2
+  },
+  {
+    "word": "ಬುದ್ಧಿ",
+    "translation": "Buddhi",
+    "disambiguation": "Intelligence or Buddha",
+    "senses": 2
+  },
+  {
+    "word": "ಬಾಲು",
+    "translation": "Baalu",
+    "disambiguation": "Sand or hair",
+    "senses": 2
+  },
+  {
+    "word": "ಕೊಂಬು",
+    "translation": "Kombu",
+    "disambiguation": "Horn or peg",
+    "senses": 2
+  },
+   {
+    "word": "ಕೈಗಡಿ",
+    "translation": "Kaigadi",
+    "disambiguation": "Watch or machine",
+    "senses": 2
+  },
+  {
+    "word": "ಗುರು",
+    "translation": "Guru",
+    "disambiguation": "Teacher or master",
+    "senses": 2
+  },
+  {
+    "word": "ಹೆಸರು",
+    "translation": "Hesaru",
+    "disambiguation": "Name or fame",
+    "senses": 2
+  },
+  {
+    "word": "ಹುಲ್ಲು",
+    "translation": "Hullu",
+    "disambiguation": "Grass or mad",
+    "senses": 2
+  },
+  {
+    "word": "ಗಣಿ",
+    "translation": "Gani",
+    "disambiguation": "Lock or group",
+    "senses": 2
+  },
+  {
+    "word": "ಮೇಲೆ",
+    "translation": "Mele",
+    "disambiguation": "On or above",
+    "senses": 2
+  },
+  {
+    "word": "ಕರು",
+    "translation": "Kar",
+    "disambiguation": "Cow or black",
+    "senses": 2
+  },
+  {
+    "word": "ಕಾಲ",
+    "translation": "Kala",
+    "disambiguation": "Time or art",
+    "senses": 2
+  },
+  {
+    "word": "ಮನುಷ್ಯ",
+    "translation": "Manushya",
+    "disambiguation": "Human or man",
+    "senses": 2
+  },
+  {
+    "word": "ಸ್ನೇಹ",
+    "translation": "Sneha",
+    "disambiguation": "Friendship or love",
+    "senses": 2
+  },
+  {
+    "word": "ಬೆಟ್ಟ",
+    "translation": "Betu",
+    "disambiguation": "Mountain or sleep",
+    "senses": 2
+  },
+  {
+    "word": "ಬಂಡೆ",
+    "translation": "Bandhe",
+    "disambiguation": "Rock or dam",
+    "senses": 2
+  },
+  {
+    "word": "ಬಗೆ",
+    "translation": "Bage",
+    "disambiguation": "Type or way",
+    "senses": 2
+  },
+  {
+    "word": "ಮೊಗ",
+    "translation": "Moga",
+    "disambiguation": "Face or nose",
+    "senses": 2
+  },
+  {
+    "word": "ಗಾಡಿ",
+    "translation": "Gadi",
+    "disambiguation": "Vehicle or clock",
+    "senses": 2
+  },
+  {
+    "word": "ಕೋಣ",
+    "translation": "Kona",
+    "disambiguation": "Angle or corner",
+    "senses": 2
+  },
+   {
+    "word": "ಮೂಲ",
+    "translation": "Moola",
+    "disambiguation": "Root or fund",
+    "senses": 2
+  },
+  {
+    "word": "ತುತ್ತು",
+    "translation": "Tutthu",
+    "disambiguation": "Piece or scolding",
+    "senses": 2
+  },
+  {
+    "word": "ಹುಲಿ",
+    "translation": "Huli",
+    "disambiguation": "Tiger or tamarind",
+    "senses": 2
+  },
+  {
+    "word": "ಕನಸು",
+    "translation": "Kanasu",
+    "disambiguation": "Dream or wish",
+    "senses": 2
+  },
+  {
+    "word": "ಮಾರಾಟ",
+    "translation": "Maarata",
+    "disambiguation": "Sell or beat",
+    "senses": 2
+  },
+  {
+    "word": "ಪಟ",
+    "translation": "Pata",
+    "disambiguation": "Cloth or painting",
+    "senses": 2
+  },
+  {
+    "word": "ಕಣ್ಣು",
+    "translation": "Kannu",
+    "disambiguation": "Eye or grain",
+    "senses": 2
+  },
+  {
+    "word": "ತಲುಪು",
+    "translation": "Talupu",
+    "disambiguation": "Reach or ache",
+    "senses": 2
+  },
+  {
+    "word": "ಹಾವು",
+    "translation": "Haavu",
+    "disambiguation": "Snake or wish",
+    "senses": 2
+  },
+  {
+    "word": "ಚಿಕ್ಕ",
+    "translation": "Chikka",
+    "disambiguation": "Small or brother",
+    "senses": 2
+  },
+  {
+    "word": "ಗಾಳಿ",
+    "translation": "Gaali",
+    "disambiguation": "Wind or abuse",
+    "senses": 2
+  },
+  {
+    "word": "ಅಕ್ಕಿ",
+    "translation": "Akki",
+    "disambiguation": "Rice or elder sister",
+    "senses": 2
+  },
+  {
+    "word": "ಹುಡುಗ",
+    "translation": "Huduga",
+    "disambiguation": "Boy or young man",
+    "senses": 2
+  },
+  {
+    "word": "ಕಸ",
+    "translation": "Kasa",
+    "disambiguation": "Cough or debt",
+    "senses": 2
+  },
+  {
+    "word": "ಬಿಡುಗಡೆ",
+    "translation": "Bidugadhe",
+    "disambiguation": "End or resignation",
+    "senses": 2
+  },
+  {
+    "word": "ಸಮಯ",
+    "translation": "Samaya",
+    "disambiguation": "Time or punctuality",
+    "senses": 2
+  },
+  {
+    "word": "ಕೊಂಕಾಣಿ",
+    "translation": "Konkani",
+    "disambiguation": "Language or seashell",
+    "senses": 2
+  },
+  {
+    "word": "ಬಣ್ಣ",
+    "translation": "Banna",
+    "disambiguation": "Color or bridegroom",
+    "senses": 2
+  },
+  {
+    "word": "ಬರುವಿಕೆ",
+    "translation": "Baruvike",
+    "disambiguation": "Arrival or addiction",
+    "senses": 2
+  },
+  {
+    "word": "ಹೊಟ್ಟೆ",
+    "translation": "Hotte",
+    "disambiguation": "Stomach or hill",
+    "senses": 2
+  },
+  {
+    "word": "ತಂತ್ರ",
+    "translation": "Tantra",
+    "disambiguation": "System or black magic",
+    "senses": 2
+  },
+  {
+    "word": "ಮುಖ",
+    "translation": "Mukha",
+    "disambiguation": "Face or direction",
+    "senses": 2
+  },
+  {
+    "word": "ಹೆಂಡತಿ",
+    "translation": "Hendati",
+    "disambiguation": "Wife or woman",
+    "senses": 2
+  },
+  {
+    "word": "ಗೆರೆ",
+    "translation": "Gere",
+    "disambiguation": "Line or obstacle",
+    "senses": 2
+  },
+  {
+    "word": "ನೆಂಟರು",
+    "translation": "Nentaru",
+    "disambiguation": "Friends or ancestors",
+    "senses": 2
+  },
+  {
+    "word": "ನಾಟಕ",
+    "translation": "Nataka",
+    "disambiguation": "Drama or play",
+    "senses": 2
+  },
+  {
+    "word": "ರುಚಿ",
+    "translation": "Ruchi",
+    "disambiguation": "Taste or interest",
+    "senses": 2
+  },
+  {
+    "word": "ಕೊರಳ",
+    "translation": "Korala",
+    "disambiguation": "Neck or collar",
+    "senses": 2
+  },
+  {
+    "word": "ಜನರಿಗೆ",
+    "translation": "Janarige",
+    "disambiguation": "To people or for people",
+    "senses": 2
+  },
+  {
+    "word": "ಪಟ್ಟಿ",
+    "translation": "Patti",
+    "disambiguation": "List or silk cloth",
+    "senses": 2
+  },
+  {
+    "word": "ಕಾಡು",
+    "translation": "Kaadu",
+    "disambiguation": "Forest or wild",
+    "senses": 2
+  },
+  {
+    "word": "ಮಗಳು",
+    "translation": "Magalu",
+    "disambiguation": "Daughter or girl",
+    "senses": 2
+  },
+   {
+    "word": "ಮುದ್ರೆ",
+    "translation": "Mudre",
+    "disambiguation": "Print or emblem",
+    "senses": 2
+  },
+  {
+    "word": "ಸ್ವಲ್ಪ",
+    "translation": "Svalpa",
+    "disambiguation": "Little or few",
+    "senses": 2
+  },
+  {
+    "word": "ಬರವಣಿಗೆ",
+    "translation": "Baravaṇige",
+    "disambiguation": "Writing or invitation",
+    "senses": 2
+  },
+  {
+    "word": "ಹೆಣ್ಣು",
+    "translation": "Hennu",
+    "disambiguation": "Female or mehndi",
+    "senses": 2
+  },
+  {
+    "word": "ನದಿ",
+    "translation": "Nadi",
+    "disambiguation": "River or vein",
+    "senses": 2
+  },
+  {
+    "word": "ಮಾತು",
+    "translation": "Maatu",
+    "disambiguation": "Word or advice",
+    "senses": 2
+  },
+  {
+    "word": "ಬೇಲಿ",
+    "translation": "Beli",
+    "disambiguation": "Bell or jaggery",
+    "senses": 2
+  },
+  {
+    "word": "ಸೋಲು",
+    "translation": "Solu",
+    "disambiguation": "Loss or defeat",
+    "senses": 2
+  },
+  {
+    "word": "ಸುತ್ತು",
+    "translation": "Suttu",
+    "disambiguation": "Around or hide",
+    "senses": 2
+  },
+  {
+    "word": "ಕನಸು",
+    "translation": "Kanasu",
+    "disambiguation": "Dream or wish",
+    "senses": 2
+  },
+  {
+    "word": "ಪಡು",
+    "translation": "Padu",
+    "disambiguation": "Get or endure",
+    "senses": 2
+  },
+  {
+    "word": "ಕಾಣಿಕೆ",
+    "translation": "Kaanike",
+    "disambiguation": "Offering or request",
+    "senses": 2
+  },
+  {
+    "word": "ಹೇಳು",
+    "translation": "Helu",
+    "disambiguation": "Say or tell",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರೀತಿ",
+    "translation": "Preethi",
+    "disambiguation": "Love or affection",
+    "senses": 2
+  },
+  {
+    "word": "ದೂರ",
+    "translation": "Dura",
+    "disambiguation": "Distance or far",
+    "senses": 2
+  },
+  {
+    "word": "ಸ್ವಾಗತ",
+    "translation": "Swaagatha",
+    "disambiguation": "Welcome or reception",
+    "senses": 2
+  },
+  {
+    "word": "ಅವಕಾಶ",
+    "translation": "Avakasha",
+    "disambiguation": "Opportunity or space",
+    "senses": 2
+  },
+  {
+    "word": "ಪಾತ್ರ",
+    "translation": "Patra",
+    "disambiguation": "Vessel or role",
+    "senses": 2
+  },
+  {
+    "word": "ಮುಖ್ಯ",
+    "translation": "Mukhya",
+    "disambiguation": "Main or chief",
+    "senses": 2
+  },
+  {
+    "word": "ಸಾಮಾನ್ಯ",
+    "translation": "Samanya",
+    "disambiguation": "General or common",
+    "senses": 2
+  },
+  {
+    "word": "ಹಾರ",
+    "translation": "Haara",
+    "disambiguation": "Necklace or defeat",
+    "senses": 2
+  },
+  {
+    "word": "ವಿಚಾರ",
+    "translation": "Vichara",
+    "disambiguation": "Thought or matter",
+    "senses": 2
+  },
+  {
+    "word": "ಪರಿಸರ",
+    "translation": "Parisara",
+    "disambiguation": "Environment or surroundings",
+    "senses": 2
+  },
+  {
+    "word": "ಸುಖ",
+    "translation": "Sukha",
+    "disambiguation": "Happiness or ease",
+    "senses": 2
+  },
+  {
+    "word": "ಮರ",
+    "translation": "Mara",
+    "disambiguation": "Tree or death",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರಯೋಜನ",
+    "translation": "Prayojana",
+    "disambiguation": "Benefit or purpose",
+    "senses": 2
+  },
+  {
+    "word": "ಭಾಗ್ಯ",
+    "translation": "Bhagya",
+    "disambiguation": "Luck or destiny",
+    "senses": 2
+  },
+  {
+    "word": "ಮನೆ",
+    "translation": "Mane",
+    "disambiguation": "House or mind",
+    "senses": 2
+  },
+  {
+    "word": "ತಲೆ",
+    "translation": "Tale",
+    "disambiguation": "Head or end",
+    "senses": 2
+  },
+  {
+    "word": "ಆಸೆ",
+    "translation": "Aase",
+    "disambiguation": "Desire or wish",
+    "senses": 2
+  },
+  {
+    "word": "ಬಗೆ",
+    "translation": "Bage",
+    "disambiguation": "Type or way",
+    "senses": 2
+  },
+  {
+    "word": "ಹಾಲು",
+    "translation": "Haalu",
+    "disambiguation": "Milk or saliva",
+    "senses": 2
+  },
+   {
+    "word": "ಜಾತಿ",
+    "translation": "Jati",
+    "disambiguation": "Caste or species",
+    "senses": 2
+  },
+  {
+    "word": "ಪದ",
+    "translation": "Pada",
+    "disambiguation": "Word or step",
+    "senses": 2
+  },
+  {
+    "word": "ರಾಷ್ಟ್ರ",
+    "translation": "Rashtra",
+    "disambiguation": "Nation or state",
+    "senses": 2
+  },
+  {
+    "word": "ವೇಳೆ",
+    "translation": "Vele",
+    "disambiguation": "Time or occasion",
+    "senses": 2
+  },
+  {
+    "word": "ಸಿದ್ಧಾಂತ",
+    "translation": "Siddhanta",
+    "disambiguation": "Theory or principle",
+    "senses": 2
+  },
+  {
+    "word": "ಕೆಲಸ",
+    "translation": "Kelas",
+    "disambiguation": "Work or job",
+    "senses": 2
+  },
+  {
+    "word": "ಮಾರ್ಗ",
+    "translation": "Marga",
+    "disambiguation": "Path or way",
+    "senses": 2
+  },
+  {
+    "word": "ಮಿತಿ",
+    "translation": "Miti",
+    "disambiguation": "Limit or boundary",
+    "senses": 2
+  },
+  {
+    "word": "ಪರಿಣಾಮ",
+    "translation": "Parinama",
+    "disambiguation": "Result or consequence",
+    "senses": 2
+  },
+  {
+    "word": "ಹೆಸರು",
+    "translation": "Hesaru",
+    "disambiguation": "Name or fame",
+    "senses": 2
+  },
+  {
+    "word": "ನೆರವು",
+    "translation": "Neravu",
+    "disambiguation": "Support or help",
+    "senses": 2
+  },
+  {
+    "word": "ಮಿತಿ",
+    "translation": "Miti",
+    "disambiguation": "Limit or boundary",
+    "senses": 2
+  },
+  {
+    "word": "ಆದರೆ",
+    "translation": "Adare",
+    "disambiguation": "But or however",
+    "senses": 2
+  },
+  {
+    "word": "ಕಾರ್ಯ",
+    "translation": "Karya",
+    "disambiguation": "Task or function",
+    "senses": 2
+  },
+  {
+    "word": "ಹಣ",
+    "translation": "Hana",
+    "disambiguation": "Money or gold",
+    "senses": 2
+  },
+  {
+    "word": "ಮಾನ್ಯತೆ",
+    "translation": "Maanyate",
+    "disambiguation": "Validity or acceptance",
+    "senses": 2
+  },
+   {
+    "word": "ಆದಾಯ",
+    "translation": "Adaaya",
+    "disambiguation": "Income or revenue",
+    "senses": 2
+  },
+  {
+    "word": "ಕಾರಣ",
+    "translation": "Kaaran",
+    "disambiguation": "Reason or cause",
+    "senses": 2
+  },
+  {
+    "word": "ಸಂಗತಿ",
+    "translation": "Sangati",
+    "disambiguation": "Matter or incident",
+    "senses": 2
+  },
+  {
+    "word": "ಅಧಿಕಾರ",
+    "translation": "Adhikara",
+    "disambiguation": "Authority or power",
+    "senses": 2
+  },
+  {
+    "word": "ಸದ್ಯ",
+    "translation": "Sadya",
+    "disambiguation": "Today or feast",
+    "senses": 2
+  },
+  {
+    "word": "ನೇತೃ",
+    "translation": "Netru",
+    "disambiguation": "Leader or conductor",
+    "senses": 2
+  },
+  {
+    "word": "ಮುದ್ರಣ",
+    "translation": "Mudrana",
+    "disambiguation": "Printing or stamping",
+    "senses": 2
+  },
+  {
+    "word": "ಮೇಲ್ಮೈ",
+    "translation": "Melmai",
+    "disambiguation": "Superiority or dignity",
+    "senses": 2
+  },
+  {
+    "word": "ಮಹತ್ವ",
+    "translation": "Mahatva",
+    "disambiguation": "Importance or significance",
+    "senses": 2
+  },
+  {
+    "word": "ಸದ್ಯ",
+    "translation": "Sadya",
+    "disambiguation": "Today or feast",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರತಿಸ್ಪಂದನ",
+    "translation": "Pratispandana",
+    "disambiguation": "Response or resonance",
+    "senses": 2
+  },
+  {
+    "word": "ಮಿತಿ",
+    "translation": "Miti",
+    "disambiguation": "Limit or boundary",
+    "senses": 2
+  },
+  {
+    "word": "ಮೌನ",
+    "translation": "Mauna",
+    "disambiguation": "Silence or vow of silence",
+    "senses": 2
+  },
+  {
+    "word": "ಪುಟ",
+    "translation": "Puta",
+    "disambiguation": "Page or cleansing",
+    "senses": 2
+  },
+  {
+    "word": "ಅಭಿಪ್ರೇತ",
+    "translation": "Abhipreta",
+    "disambiguation": "Beloved or departed",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರಾಣಿ",
+    "translation": "Prani",
+    "disambiguation": "Animal or living being",
+    "senses": 2
+  },
+  {
+    "word": "ಅರ್ಥ",
+    "translation": "Artha",
+    "disambiguation": "Meaning or wealth",
+    "senses": 2
+  },
+  {
+    "word": "ಅಸ್ಪಷ್ಟ",
+    "translation": "Aspashta",
+    "disambiguation": "Unclear or vague",
+    "senses": 2
+  },
+  {
+    "word": "ಅಂಗ",
+    "translation": "Anga",
+    "disambiguation": "Body part or division",
+    "senses": 2
+  },
+  {
+    "word": "ಅಪರಾಧ",
+    "translation": "Aparadha",
+    "disambiguation": "Offense or crime",
+    "senses": 2
+  },
+  {
+    "word": "ಆವಶ್ಯಕ",
+    "translation": "Aavashyaka",
+    "disambiguation": "Necessary or essential",
+    "senses": 2
+  },
+  {
+    "word": "ಉದ್ದೇಶ",
+    "translation": "Uddesha",
+    "disambiguation": "Purpose or intention",
+    "senses": 2
+  },
+  {
+    "word": "ಉದ್ಯಾನ",
+    "translation": "Udyaana",
+    "disambiguation": "Garden or park",
+    "senses": 2
+  },
+  {
+    "word": "ಉದ್ಯೋಗ",
+    "translation": "Udyoga",
+    "disambiguation": "Job or occupation",
+    "senses": 2
+  },
+  {
+    "word": "ಊಟ",
+    "translation": "Uuta",
+    "disambiguation": "Meal or eating",
+    "senses": 2
+  },
+  {
+    "word": "ಏಕತೆ",
+    "translation": "Ekate",
+    "disambiguation": "Unity or oneness",
+    "senses": 2
+  },
+  {
+    "word": "ಓದು",
+    "translation": "Odu",
+    "disambiguation": "Read or wave",
+    "senses": 2
+  },
+  {
+    "word": "ಕಾರ್ಯಕ್ಷೇತ್ರ",
+    "translation": "Karyakshetra",
+    "disambiguation": "Field or domain",
+    "senses": 2
+  },
+  {
+    "word": "ಕೇಂದ್ರ",
+    "translation": "Kendra",
+    "disambiguation": "Center or headquarters",
+    "senses": 2
+  },
+  {
+    "word": "ಗುಣ",
+    "translation": "Guna",
+    "disambiguation": "Quality or attribute",
+    "senses": 2
+  },
+  {
+    "word": "ಚಿತ್ರ",
+    "translation": "Chitra",
+    "disambiguation": "Picture or painting",
+    "senses": 2
+  },
+  {
+    "word": "ಜಾಗ",
+    "translation": "Jaaga",
+    "disambiguation": "Place or space",
+    "senses": 2
+  },
+  {
+    "word": "ಜನ",
+    "translation": "Jana",
+    "disambiguation": "People or birth",
+    "senses": 2
+  },
+  {
+    "word": "ಜೀವ",
+    "translation": "Jeeva",
+    "disambiguation": "Life or soul",
+    "senses": 2
+  },
+  {
+    "word": "ತಾಳು",
+    "translation": "Taalu",
+    "disambiguation": "Beat or patience",
+    "senses": 2
+  },
+  {
+    "word": "ನಗರ",
+    "translation": "Nagara",
+    "disambiguation": "City or tune",
+    "senses": 2
+  },
+  {
+    "word": "ಪರಿಣಾಮ",
+    "translation": "Parinama",
+    "disambiguation": "Result or consequence",
+    "senses": 2
+  },
+  {
+    "word": "ಪೂರ್ವ",
+    "translation": "Poorva",
+    "disambiguation": "East or former",
+    "senses": 2
+  },
+  {
+    "word": "ಪುಸ್ತಕ",
+    "translation": "Pustaka",
+    "disambiguation": "Book or scripture",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರವೃತ್ತಿ",
+    "translation": "Pravritti",
+    "disambiguation": "Activity or inclination",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರಶ್ನೆ",
+    "translation": "Prashne",
+    "disambiguation": "Question or inquiry",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರಾಣ",
+    "translation": "Prana",
+    "disambiguation": "Breath or vital force",
+    "senses": 2
+  },
+  {
+    "word": "ಮಾರ್ಗ",
+    "translation": "Marga",
+    "disambiguation": "Path or way",
+    "senses": 2
+  },
+  {
+    "word": "ಮಾನ್ಯತೆ",
+    "translation": "Maanyate",
+    "disambiguation": "Validity or acceptance",
+    "senses": 2
+  },
+  {
+    "word": "ಯಾತ್ರೆ",
+    "translation": "Yatre",
+    "disambiguation": "Journey or travel",
+    "senses": 2
+  },
+  {
+    "word": "ಯೋಗ್ಯತೆ",
+    "translation": "Yogyate",
+    "disambiguation": "Capability or qualification",
+    "senses": 2
+  },
+  {
+    "word": "ರಾಜ್ಯ",
+    "translation": "Rajya",
+    "disambiguation": "State or kingdom",
+    "senses": 2
+  },
+  {
+    "word": "ವರ್ಗ",
+    "translation": "Varga",
+    "disambiguation": "Class or group",
+    "senses": 2
+  },
+  {
+    "word": "ರಾಜ",
+    "translation": "Raja",
+    "disambiguation": "King or rule",
+    "senses": 2
+  },
+  {
+    "word": "ವಸತಿ",
+    "translation": "Vasati",
+    "disambiguation": "Residence or clothing",
+    "senses": 2
+  },
+  {
+    "word": "ವಿಷಯ",
+    "translation": "Vishaya",
+    "disambiguation": "Subject or topic",
+    "senses": 2
+  },
+  {
+    "word": "ಶಕ್ತಿ",
+    "translation": "Shakti",
+    "disambiguation": "Power or energy",
+    "senses": 2
+  },
+  {
+    "word": "ಶಬ್ದ",
+    "translation": "Shabda",
+    "disambiguation": "Sound or word",
+    "senses": 2
+  },
+  {
+    "word": "ಶಿಕ್ಷಕ",
+    "translation": "Shikshaka",
+    "disambiguation": "Teacher or instructor",
+    "senses": 2
+  },
+  {
+    "word": "ಶುಭ",
+    "translation": "Shubha",
+    "disambiguation": "Auspicious or good",
+    "senses": 2
+  },
+  {
+    "word": "ಶೇಕಡ",
+    "translation": "Shekada",
+    "disambiguation": "Percentage or fraction",
+    "senses": 2
+  },
+  {
+    "word": "ಷಡ್ಯಂತ್ರ",
+    "translation": "Shadyantra",
+    "disambiguation": "Plot or conspiracy",
+    "senses": 2
+  },
+  {
+    "word": "ಸಂಗೀತ",
+    "translation": "Sangeeta",
+    "disambiguation": "Music or melody",
+    "senses": 2
+  },
+  {
+    "word": "ಸಂಪತ್ತು",
+    "translation": "Sampattu",
+    "disambiguation": "Wealth or property",
+    "senses": 2
+  },
+  {
+    "word": "ಸೌಖ್ಯ",
+    "translation": "Saukhya",
+    "disambiguation": "Happiness or well-being",
+    "senses": 2
+  },
+  {
+    "word": "ಹಕ್ಕು",
+    "translation": "Hakku",
+    "disambiguation": "Right or privilege",
+    "senses": 2
+  },
+  {
+    "word": "ಹೊಸ",
+    "translation": "Hosa",
+    "disambiguation": "New or fresh",
+    "senses": 2
+  },
+  {
+    "word": "ಹುಡುಕು",
+    "translation": "Huduku",
+    "disambiguation": "Search or seek",
+    "senses": 2
+  },
+  {
+    "word": "ಹೇಳು",
+    "translation": "Helu",
+    "disambiguation": "Tell or say",
+    "senses": 2
+  },
+  {
+    "word": "ಕೆಲಸ",
+    "translation": "Kelas",
+    "disambiguation": "Work or job",
+    "senses": 2
+  },
+  {
+    "word": "ಹೊಸದು",
+    "translation": "Hosadu",
+    "disambiguation": "New or recent",
+    "senses": 2
+  },
+  {
+    "word": "ಅಪ್ಪ",
+    "translation": "Appa",
+    "disambiguation": "Father or snack",
+    "senses": 2
+  },
+  {
+    "word": "ತೊಂದರೆ",
+    "translation": "Tondare",
+    "disambiguation": "Problem or trouble",
+    "senses": 2
+  },
+  {
+    "word": "ಕನಸು",
+    "translation": "Kanasu",
+    "disambiguation": "Dream or aspiration",
+    "senses": 2
+  },
+  {
+    "word": "ಬಿಡುಗಡೆ",
+    "translation": "Bidugadhe",
+    "disambiguation": "Conclusion or ending",
+    "senses": 2
+  },
+  {
+    "word": "ವಿಶೇಷ",
+    "translation": "VisheSha",
+    "disambiguation": "Special or specific",
+    "senses": 2
+  },
+  {
+    "word": "ಅನುಭವ",
+    "translation": "Anubhava",
+    "disambiguation": "Experience or observation",
+    "senses": 2
+  },
+  {
+    "word": "ಪುರಾತನ",
+    "translation": "Puratana",
+    "disambiguation": "Ancient or old",
+    "senses": 2
+  },
+  {
+    "word": "ಸೌಕರ್ಯ",
+    "translation": "Saukarya",
+    "disambiguation": "Convenience or comfort",
+    "senses": 2
+  },
+  {
+    "word": "ಹೊಸದು",
+    "translation": "Hosadu",
+    "disambiguation": "New or recent",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರಮಾಣ",
+    "translation": "Pramana",
+    "disambiguation": "Measurement or proof",
+    "senses": 2
+  },
+  {
+    "word": "ಮನೆ",
+    "translation": "Mane",
+    "disambiguation": "House or home",
+    "senses": 2
+  },
+  {
+    "word": "ಪರಿಚಯ",
+    "translation": "Parichaya",
+    "disambiguation": "Introduction or acquaintance",
+    "senses": 2
+  },
+  {
+    "word": "ಪರಿಸ್ಥಿತಿ",
+    "translation": "Parishtiti",
+    "disambiguation": "Situation or condition",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರವೃತ್ತಿ",
+    "translation": "Pravritti",
+    "disambiguation": "Activity or behavior",
+    "senses": 2
+  },
+  {
+    "word": "ಪುರಾಣ",
+    "translation": "Purana",
+    "disambiguation": "Mythology or ancient scripture",
+    "senses": 2
+  },
+  {
+    "word": "ಸೌಖ್ಯ",
+    "translation": "Saukhya",
+    "disambiguation": "Comfort or well-being",
+    "senses": 2
+  },
+  {
+    "word": "ಮಾರುಕಟ್ಟೆ",
+    "translation": "Marukatte",
+    "disambiguation": "Market or shop",
+    "senses": 2
+  },
+  {
+    "word": "ಸಮಯ",
+    "translation": "Samaya",
+    "disambiguation": "Time or moment",
+    "senses": 2
+  },
+  {
+    "word": "ಸಂಸ್ಕೃತಿ",
+    "translation": "Samskruti",
+    "disambiguation": "Culture or civilization",
+    "senses": 2
+  },
+  {
+    "word": "ನಾಟಕ",
+    "translation": "Nataka",
+    "disambiguation": "Drama or play",
+    "senses": 2
+  },
+  {
+    "word": "ಮುಖ್ಯ",
+    "translation": "Mukhya",
+    "disambiguation": "Main or chief",
+    "senses": 2
+  },
+  {
+    "word": "ಭಾಷೆ",
+    "translation": "Bhasha",
+    "disambiguation": "Language or speech",
+    "senses": 2
+  },
+  {
+    "word": "ಪರಿಪತ್ರ",
+    "translation": "Paripatra",
+    "disambiguation": "Letter or circular",
+    "senses": 2
+  },
+  {
+    "word": "ಹೆಚ್ಚುವರಿ",
+    "translation": "Hechhuvari",
+    "disambiguation": "Increase or additional",
+    "senses": 2
+  },
+  {
+    "word": "ಸರಿ",
+    "translation": "Sari",
+    "disambiguation": "Correct or fine",
+    "senses": 2
+  },
+  {
+    "word": "ವ್ಯಾಪಾರ",
+    "translation": "Vyapara",
+    "disambiguation": "Business or trade",
+    "senses": 2
+  },
+  {
+    "word": "ಶಿಕ್ಷಣ",
+    "translation": "Shikshana",
+    "disambiguation": "Education or learning",
+    "senses": 2
+  },
+  {
+    "word": "ಆಹಾರ",
+    "translation": "Aahara",
+    "disambiguation": "Food or diet",
+    "senses": 2
+  },
+  {
+    "word": "ಕೇಂದ್ರ",
+    "translation": "Kendra",
+    "disambiguation": "Center or central",
+    "senses": 2
+  },
+  {
+    "word": "ಸಂತೋಷ",
+    "translation": "Santosha",
+    "disambiguation": "Happiness or contentment",
+    "senses": 2
+  },
+  {
+    "word": "ಪರಿಸರ",
+    "translation": "Parisara",
+    "disambiguation": "Environment or surroundings",
+    "senses": 2
+  },
+  {
+    "word": "ಮಾತು",
+    "translation": "Matu",
+    "disambiguation": "Word or speech",
+    "senses": 2
+  },
+  {
+    "word": "ಕಟ್ಟುಕ",
+    "translation": "Kattuka",
+    "disambiguation": "Build or construct",
+    "senses": 2
+  },
+  {
+    "word": "ಉದ್ಯೋಗ",
+    "translation": "Udyoga",
+    "disambiguation": "Job or employment",
+    "senses": 2
+  },
+  {
+    "word": "ಗಮನ",
+    "translation": "Gamana",
+    "disambiguation": "Attention or movement",
+    "senses": 2
+  },
+  {
+    "word": "ವೈಯಕ್ತಿಕ",
+    "translation": "Vaiyaktika",
+    "disambiguation": "Personal or individual",
+    "senses": 2
+  },
+  {
+    "word": "ಅಧಿಕಾರ",
+    "translation": "Adhikara",
+    "disambiguation": "Authority or power",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರಯೋಜನ",
+    "translation": "Prayojana",
+    "disambiguation": "Benefit or purpose",
+    "senses": 2
+  },
+  {
+    "word": "ಜೀವನ",
+    "translation": "Jeevana",
+    "disambiguation": "Life or existence",
+    "senses": 2
+  },
+  {
+    "word": "ಸ್ವಾಗತ",
+    "translation": "Swagata",
+    "disambiguation": "Welcome or reception",
+    "senses": 2
+  },
+  {
+    "word": "ಸ್ಥಿತಿ",
+    "translation": "Sthiti",
+    "disambiguation": "Situation or condition",
+    "senses": 2
+  },
+  {
+    "word": "ದಿನ",
+    "translation": "Dina",
+    "disambiguation": "Day or date",
+    "senses": 2
+  },
+  {
+    "word": "ನಗರ",
+    "translation": "Nagara",
+    "disambiguation": "City or town",
+    "senses": 2
+  },
+  {
+    "word": "ಸೇವೆ",
+    "translation": "Seve",
+    "disambiguation": "Service or devotion",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರಯಾಣ",
+    "translation": "Prayana",
+    "disambiguation": "Journey or travel",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರಕೃತಿ",
+    "translation": "Prakruti",
+    "disambiguation": "Nature or constitution",
+    "senses": 2
+  },
+  {
+    "word": "ಪಟ್ಟಣ",
+    "translation": "Pattana",
+    "disambiguation": "City or urban area",
+    "senses": 2
+  },
+  {
+    "word": "ಮತ್ತು",
+    "translation": "Mattu",
+    "disambiguation": "And or also",
+    "senses": 2
+  },
+  {
+    "word": "ಯೋಜನೆ",
+    "translation": "Yojane",
+    "disambiguation": "Plan or scheme",
+    "senses": 2
+  },
+  {
+    "word": "ಮಾರ್ಗ",
+    "translation": "Marga",
+    "disambiguation": "Path or way",
+    "senses": 2
+  },
+  {
+    "word": "ವರ್ಗ",
+    "translation": "Varga",
+    "disambiguation": "Square or group or class or transfer",
+    "senses": 4
+},
+{
+    "word": "ವಿಜಯ",
+    "translation": "Vijaya",
+    "disambiguation": "Victory or conquest or success or name",
+    "senses": 4
+  },
+  {
+    "word": "ಸ್ವಾಗತ",
+    "translation": "Swagata",
+    "disambiguation": "Welcome or reception or greeting",
+    "senses": 3
+  },
+  {
+    "word": "ಸಂಸ್ಕೃತಿ",
+    "translation": "Samskruti",
+    "disambiguation": "Culture or civilization or education",
+    "senses": 3
+  },
+  {
+    "word": "ಸಂತೋಷ",
+    "translation": "Santosha",
+    "disambiguation": "Happiness or contentment or satisfaction",
+    "senses": 3
+  },
+  {
+    "word": "ಅನುಭವ",
+    "translation": "Anubhava",
+    "disambiguation": "Experience or knowledge or realization",
+    "senses": 3
+  },
+  {
+    "word": "ಪರಿಸ್ಥಿತಿ",
+    "translation": "Parishtiti",
+    "disambiguation": "Situation or condition or circumstance",
+    "senses": 3
+  },
+  {
+    "word": "ಕಲೆ",
+    "translation": "Kale",
+    "disambiguation": "Art or skill or subject or trick",
+    "senses": 4
+  },
+  {
+    "word": "ಮಾರ್ಗ",
+    "translation": "Marga",
+    "disambiguation": "Path or road or way or route",
+    "senses": 4
+  },
+  {
+    "word": "ಕೆಲಸ",
+    "translation": "Kelas",
+    "disambiguation": "Work or job or task or employment",
+    "senses": 4
+  },
+  {
+    "word": "ಪ್ರಯೋಜನ",
+    "translation": "Prayojana",
+    "disambiguation": "Benefit or advantage or usefulness or purpose",
+    "senses": 4
+  },
+  {
+    "word": "ಸ್ಥಾನ",
+    "translation": "Sthana",
+    "disambiguation": "Place or location or position or rank",
+    "senses": 4
+  },
+  {
+    "word": "ಮಾಹಿತಿ",
+    "translation": "Mahiti",
+    "disambiguation": "Information or knowledge or data or details",
+    "senses": 4
+  },
+  {
+    "word": "ಸೇವೆ",
+    "translation": "Seve",
+    "disambiguation": "Service or worship or devotion or attendance",
+    "senses": 4
+  },
+  {
+    "word": "ಅನುಭವ",
+    "translation": "Anubhava",
+    "disambiguation": "Experience or feeling or sensation or realization",
+    "senses": 4
+  },
+  {
+    "word": "ಬೇರೆ",
+    "translation": "Bere",
+    "disambiguation": "Different or separate or another or distinct",
+    "senses": 4
+  },
+  {
+    "word": "ಹೊಂದಾಣಿಕೆ",
+    "translation": "Hondanike",
+    "disambiguation": "Possession or ownership or acquisition or attainment",
+    "senses": 4
+  },
+  {
+    "word": "ವಿವಿಧ",
+    "translation": "Vividha",
+    "disambiguation": "Various or diverse or different",
+    "senses": 3
+  },
+  {
+    "word": "ಸಂಪ್ರದಾಯ",
+    "translation": "Sampradaya",
+    "disambiguation": "Tradition or custom or practice",
+    "senses": 3
+  },
+  {
+    "word": "ಸಂಬಂಧ",
+    "translation": "Sambandha",
+    "disambiguation": "Relationship or connection or association",
+    "senses": 3
+  },
+  {
+    "word": "ಸೌಲಭ್ಯ",
+    "translation": "Saulabhya",
+    "disambiguation": "Convenience or ease or comfort",
+    "senses": 3
+  },
+  {
+    "word": "ನಿರೀಕ್ಷಣ",
+    "translation": "Nireekshana",
+    "disambiguation": "Observation or inspection or examination",
+    "senses": 3
+  },
+  {
+    "word": "ಅಭಿಪ್ರೇತ",
+    "translation": "Abhipreta",
+    "disambiguation": "Deceased or departed or dead",
+    "senses": 3
+  },
+  {
+    "word": "ಅಭ್ಯಾಸ",
+    "translation": "Abhyasa",
+    "disambiguation": "Practice or study or discipline",
+    "senses": 3
+  },
+  {
+    "word": "ಮೌಲ್ಯ",
+    "translation": "Maulya",
+    "disambiguation": "Value or worth or price",
+    "senses": 3
+  },
+  {
+    "word": "ಪ್ರವಾಸ",
+    "translation": "Pravasa",
+    "disambiguation": "Travel or journey or trip",
+    "senses": 3
+  },
+  {
+    "word": "ಅಭಿಪ್ರೇತ",
+    "translation": "Abhipreta",
+    "disambiguation": "Deceased or departed or dead",
+    "senses": 3
+  },
+  {
+    "word": "ಪರ್ಯಾಯ",
+    "translation": "Paryaya",
+    "disambiguation": "Alternative or substitute or option",
+    "senses": 3
+  },
+  {
+    "word": "ಮಾರ್ಗ",
+    "translation": "Marga",
+    "disambiguation": "Path or road or way",
+    "senses": 4
+  },
+  {
+    "word": "ಗಣಿತ",
+    "translation": "Ganita",
+    "disambiguation": "Mathematics or arithmetic",
+    "senses": 4
+  },
+  {
+    "word": "ಪರಿಸ್ಥಿತಿ",
+    "translation": "Parishtiti",
+    "disambiguation": "Situation or condition or circumstance",
+    "senses": 4
+  },
+  {
+    "word": "ಬದುಕು",
+    "translation": "Baduku",
+    "disambiguation": "Life or livelihood",
+    "senses": 4
+  },
+  {
+    "word": "ಮುಖ್ಯ",
+    "translation": "Mukhya",
+    "disambiguation": "Main or primary",
+    "senses": 2
+  },
+  {
+    "word": "ರಚನೆ",
+    "translation": "Rachane",
+    "disambiguation": "Composition or creation",
+    "senses": 2
+  },
+  {
+    "word": "ಪರಿಪಕ್ವ",
+    "translation": "Paripakva",
+    "disambiguation": "Mature or ripe",
+    "senses": 2
+  },
+  {
+    "word": "ತಾತ್ಕಾಲಿಕ",
+    "translation": "Tatkalika",
+    "disambiguation": "Temporary or provisional",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರಮುಖ",
+    "translation": "Pramukha",
+    "disambiguation": "Prominent or important",
+    "senses": 3
+  },
+  {
+    "word": "ಸಾಮಾನ್ಯ",
+    "translation": "Samanya",
+    "disambiguation": "General or common",
+    "senses": 3
+  },
+  {
+    "word": "ಮಾರ್ಗ",
+    "translation": "Marga",
+    "disambiguation": "Path or road or way",
+    "senses": 4
+  },
+  {
+    "word": "ಪರಿಸ್ಥಿತಿ",
+    "translation": "Parishtiti",
+    "disambiguation": "Situation or condition or circumstance",
+    "senses": 4
+  },
+  {
+    "word": "ಅನುಭವ",
+    "translation": "Anubhava",
+    "disambiguation": "Experience or feeling or sensation or realization",
+    "senses": 4
+  },
+  {
+    "word": "ನಿರ್ಣಯ",
+    "translation": "Nirnaya",
+    "disambiguation": "Decision or judgment or conclusion or verdict",
+    "senses": 4
+  },
+  {
+    "word": "ಸ್ವಾಗತ",
+    "translation": "Swagata",
+    "disambiguation": "Welcome or reception",
+    "senses": 2
+  },
+  {
+    "word": "ಕೈಗಡಿ",
+    "translation": "Kaigadi",
+    "disambiguation": "Wallet or purse",
+    "senses": 2
+  },
+  {
+    "word": "ಮಿತಿ",
+    "translation": "Miti",
+    "disambiguation": "Limit or boundary",
+    "senses": 2
+  },
+  {
+    "word": "ನಕ್ಷತ್ರ",
+    "translation": "Nakshatra",
+    "disambiguation": "Star or constellation",
+    "senses": 2
+  },
+  {
+    "word": "ಆಗುವಿಕೆ",
+    "translation": "Aguvike",
+    "disambiguation": "Possibility or potential",
+    "senses": 3
+  },
+  {
+    "word": "ಸಹಕಾರ",
+    "translation": "Sahakara",
+    "disambiguation": "Cooperation or collaboration",
+    "senses": 3
+  },
+  {
+    "word": "ಸ್ಥಾನ",
+    "translation": "Sthana",
+    "disambiguation": "Place or position",
+    "senses": 3
+  },
+  {
+    "word": "ಪರಿವರ್ತನೆ",
+    "translation": "Parivartane",
+    "disambiguation": "Change or transformation",
+    "senses": 3
+  },
+  {
+    "word": "ಪೂರ್ಣ",
+    "translation": "Poorna",
+    "disambiguation": "Complete or full",
+    "senses": 4
+  },
+  {
+    "word": "ಪ್ರಯಾಣ",
+    "translation": "Prayana",
+    "disambiguation": "Journey or travel",
+    "senses": 4
+  },
+  {
+    "word": "ವ್ಯಕ್ತಿ",
+    "translation": "Vyakti",
+    "disambiguation": "Person or individual",
+    "senses": 4
+  },
+  {
+    "word": "ಸಾಹಿತ್ಯ",
+    "translation": "Sahitya",
+    "disambiguation": "Literature or literary works",
+    "senses": 4
+  },
+  {
+    "word": "ಅಭಿವೃದ್ಧಿ",
+    "translation": "Abhivriddhi",
+    "disambiguation": "Growth or development",
+    "senses": 2
+  },
+  {
+    "word": "ಅನುಕೂಲ",
+    "translation": "Anukula",
+    "disambiguation": "Favorable or advantageous",
+    "senses": 2
+  },
+  {
+    "word": "ಸೌಭಾಗ್ಯ",
+    "translation": "Saubhagya",
+    "disambiguation": "Good fortune or luck",
+    "senses": 2
+  },
+  {
+    "word": "ಕೇಂದ್ರ",
+    "translation": "Kendra",
+    "disambiguation": "Center or central",
+    "senses": 2
+  },
+  {
+    "word": "ಬದಲಾವಣೆ",
+    "translation": "Badalavane",
+    "disambiguation": "Change or modification",
+    "senses": 3
+  },
+  {
+    "word": "ಪ್ರಗತಿ",
+    "translation": "Pragati",
+    "disambiguation": "Progress or advancement",
+    "senses": 3
+  },
+  {
+    "word": "ಸೇವೆ",
+    "translation": "Seve",
+    "disambiguation": "Service or serving",
+    "senses": 3
+  },
+  {
+    "word": "ಜೀವನ",
+    "translation": "Jeevana",
+    "disambiguation": "Life or existence",
+    "senses": 2
+  },
+  {
+    "word": "ಕಲ್ಪನೆ",
+    "translation": "Kalpane",
+    "disambiguation": "Imagination or idea or concept",
+    "senses": 3
+  },
+  {
+    "word": "ವಿದ್ಯಾಭ್ಯಾಸ",
+    "translation": "Vidyabhyasa",
+    "disambiguation": "Education or learning",
+    "senses": 2
+  },
+  {
+    "word": "ರಾಜ್ಯ",
+    "translation": "Rajya",
+    "disambiguation": "State or kingdom",
+    "senses": 2
+  },
+  {
+    "word": "ಅನುಭವ",
+    "translation": "Anubhava",
+    "disambiguation": "Experience or feeling or sensation or realization",
+    "senses": 4
+  },
+  {
+    "word": "ಆಕಾರ",
+    "translation": "Akara",
+    "disambiguation": "Shape or form or figure",
+    "senses": 3
+  },
+  {
+    "word": "ಉದ್ದೇಶ",
+    "translation": "Uddesha",
+    "disambiguation": "Purpose or intention",
+    "senses": 2
+  },
+  {
+    "word": "ಕನಸು",
+    "translation": "Kanasu",
+    "disambiguation": "Dream or vision",
+    "senses": 2
+  },
+  {
+    "word": "ಚಿಂತನೆ",
+    "translation": "Chintane",
+    "disambiguation": "Thought or contemplation",
+    "senses": 2
+  },
+  {
+    "word": "ಜ್ಞಾನ",
+    "translation": "Jnana",
+    "disambiguation": "Knowledge or wisdom",
+    "senses": 2
+  },
+  {
+    "word": "ದೃಷ್ಟಿ",
+    "translation": "Drishti",
+    "disambiguation": "View or perspective or vision",
+    "senses": 3
+  },
+  {
+    "word": "ಪರಿಮಾಣ",
+    "translation": "Parimana",
+    "disambiguation": "Quantity or measurement",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರೀತಿ",
+    "translation": "Preethi",
+    "disambiguation": "Love or affection",
+    "senses": 2
+  },
+  {
+    "word": "ಸಂಘ",
+    "translation": "Sangha",
+    "disambiguation": "Community or group",
+    "senses": 2
+  },
+  {
+    "word": "ಕಲ್ಯಾಣ",
+    "translation": "Kalyana",
+    "disambiguation": "Well-being or auspiciousness",
+    "senses": 2
+  },
+  {
+    "word": "ಸಾಮರ್ಥ್ಯ",
+    "translation": "Samartya",
+    "disambiguation": "Ability or capability",
+    "senses": 2
+  },
+  {
+    "word": "ಸೌಭಾಗ್ಯ",
+    "translation": "Soubhagya",
+    "disambiguation": "Good fortune or luck",
+    "senses": 2
+  },
+  {
+    "word": "ವಿಚಾರ",
+    "translation": "Vichara",
+    "disambiguation": "Thought or reflection or consideration",
+    "senses": 3
+  },
+  {
+    "word": "ಸಂತೋಷ",
+    "translation": "Santosha",
+    "disambiguation": "Contentment or satisfaction",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರಗತಿ",
+    "translation": "Pragati",
+    "disambiguation": "Progress or advancement",
+    "senses": 2
+  },
+  {
+    "word": "ಧನ",
+    "translation": "Dhana",
+    "disambiguation": "Wealth or money",
+    "senses": 2
+  },
+  {
+    "word": "ಸ್ವಾಸ್ಥ್ಯ",
+    "translation": "Swasthya",
+    "disambiguation": "Health or well-being",
+    "senses": 2
+  },
+  {
+    "word": "ನಿದ್ರೆ",
+    "translation": "Nidre",
+    "disambiguation": "Sleep or rest",
+    "senses": 2
+  },
+  {
+    "word": "ಪ್ರೇಮ",
+    "translation": "Prema",
+    "disambiguation": "Love or affection",
+    "senses": 2
+  },
+  {
+    "word": "ಸಂತೆ",
+    "translation": "Sante",
+    "disambiguation": "House or residence or temple",
+    "senses": 3
+  },
+  {
+    "word": "ಕಾರ್ಯ",
+    "translation": "Karya",
+    "disambiguation": "Work or task or function",
+    "senses": 3
+  },
+  {
+    "word": "ಜೀವ",
+    "translation": "Jeeva",
+    "disambiguation": "Life or soul or living being",
+    "senses": 3
+  },
+  {
+    "word": "ಪ್ರಪಂಚ",
+    "translation": "Prapancha",
+    "disambiguation": "World or universe or society",
+    "senses": 3
+  },
+  {
+    "word": "ಪ್ರತಿಸ್ಪರ್ಧಾ",
+    "translation": "Pratispardha",
+    "disambiguation": "Competition or rivalry or contest",
+    "senses": 3
+  },
+  {
+    "word": "ವಿಜಯ",
+    "translation": "Vijaya",
+    "disambiguation": "Victory or success or triumph",
+    "senses": 3
+  },
+  {
+    "word": "ಕಲ್ಪನೆ",
+    "translation": "Kalpane",
+    "disambiguation": "Imagination or fantasy or creativity",
+    "senses": 3
+  },
+  {
+    "word": "ಸುಖಾನುಭವ",
+    "translation": "Sukhanubhava",
+    "disambiguation": "Experience of happiness or pleasure",
+    "senses": 3
+  },
+  {
+    "word": "ಕಟ್ಟಡ",
+    "translation": "Kattada",
+    "disambiguation": "Building or structure or mansion",
+    "senses": 3
+  },
+  {
+    "word": "ಪ್ರತಿಭಟನೆ",
+    "translation": "Pratibhatane",
+    "disambiguation": "Demonstration or protest or agitation",
+    "senses": 3
+  }
+]
